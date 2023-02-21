@@ -75,7 +75,7 @@ In our results, it tells us that we had 34 people out of 140 who got aids with t
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-
+Looking at the data from above we were able to identify that drug users who were given a drug versus a placebo were still able to contract aids. There was a 3:1 ratio from placebo to drug which shows that the drug lowered the rate but did not stop the infection. With those who had not contract aids, there was 48% who were given the drug and 52% who were given the placebo. 
 
 
 
